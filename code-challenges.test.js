@@ -20,7 +20,7 @@ const people = [
   { name: "arthur dent", occupation: "a radio employee" }
 ]
 // Expected output: ["Ford Prefect is a hitchhiker.", "Zaphod Beeblebrox is president of the galaxy.", "Arthur Dent is a radio employee."]
-
+ 
 
 // b) Create the function that makes the test pass.
 
